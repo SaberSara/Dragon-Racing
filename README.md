@@ -1,3 +1,3 @@
 # Dragon-Racing
 
-A VR Prototype about Dragon Racing in multiplayer
+A V. R. Prototype about Dragon Racing in multiplayer
